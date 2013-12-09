@@ -15,8 +15,8 @@ F11 插入头部文件
 F12 执行python文件   
 cc: 检查python语法是否正确   
 ctrl+x,ctrl+o 自动补齐写过的类   
-内置saltstack的vimrc
-光标键按K会出帮助文件(有点bug，是man，不是pydoc)
+内置saltstack的vimrc   
+光标键按K会出帮助文件(有点bug，是man，不是pydoc)   
 
 截图1   
 ![截图1](screen/vimrc1.png)
