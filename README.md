@@ -4,6 +4,7 @@ mv ~/.vimrc ~/.vimrc.old
 cp .vimrc ~/.vimrc   
 cd  ../
 mv vimrc-python  ~/.vim   
+yum install ctags   
    
 vim python插件   
 支持 tab键盘自动补齐自带的函数，类   
