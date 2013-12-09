@@ -1,4 +1,4 @@
-linux系统，windows的没有研究过，可能路径不同
+linux系统，windows的没有研究过，可能路径不同    
 git clone https://github.com/itnihao/vimrc-python.git   
 cd vimrc-python   
 mv ~/.vimrc ~/.vimrc.old   
