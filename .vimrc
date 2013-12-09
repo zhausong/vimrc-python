@@ -109,3 +109,6 @@ autocmd FileType python runtime! autoload/pythoncomplete.vim
 "saltstack
 set nocompatible
 filetype plugin indent on
+
+"row
+set cursorcolumn
