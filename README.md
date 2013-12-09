@@ -14,5 +14,5 @@ F12 执行python文件
 cc: 检查python语法是否正确   
 ctrl+x,ctrl+o 自动补齐写过的类   
 
-!截图1(screen/vimrc1.png)
-!截图2(screen/vimrc2.png)
+![截图1](screen/vimrc1.png)
+![截图2](screen/vimrc2.png)
