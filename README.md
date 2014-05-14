@@ -22,3 +22,6 @@ ctrl+x,ctrl+o 自动补齐写过的类
 ![截图1](screen/vimrc1.png)
 截图2    
 ![截图2](screen/vimrc2.png)
+
+关闭自动补齐#
+set formatoptions-=cro  
