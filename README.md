@@ -3,7 +3,7 @@ git clone https://github.com/itnihao/vimrc-python.git
 cd vimrc-python   
 mv ~/.vimrc ~/.vimrc.old   
 cp .vimrc ~/.vimrc   
-cd  ../
+cd  ../  
 mv vimrc-python  ~/.vim   
 yum install ctags   (F3这个功能) 
    
